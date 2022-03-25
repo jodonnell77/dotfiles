@@ -1,0 +1,8 @@
+[core]
+	editor=vim
+[alias]
+	st = status
+	co = checkout
+	cac = commit -a
+	cp = commit -a -m "checkpoint"
+	reup = pull origin main 
