@@ -112,7 +112,7 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 if [ -f ~/.bash_aliases_untracked ]; then
-    . ~/.bash_alias_untracked
+    . ~/.bash_aliases_untracked
 fi
 
 # enable programmable completion features (you don't need to enable
